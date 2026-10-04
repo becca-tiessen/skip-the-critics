@@ -6,6 +6,9 @@ Skip the Critics: See What Audiences Think
 ## Summary (max 132 chars, comes from manifest.json)
 See the Rotten Tomatoes audience Popcornmeter instead of the Tomatometer in Google results. Not affiliated with Rotten Tomatoes.
 
+## Support URL
+https://github.com/becca-tiessen/skip-the-critics/issues
+
 ## Category
 Tools  (alt: Entertainment)
 
@@ -18,6 +21,8 @@ Care more about what regular moviegoers think than what critics think? Skip the 
 • Hover the score to see how many audience ratings it's based on
 • Free, no account, no tracking, no ads
 
+Found a movie where it didn't work? Report it at https://github.com/becca-tiessen/skip-the-critics/issues
+
 Skip the Critics is an independent project and is not affiliated with, endorsed by, or sponsored by Rotten Tomatoes, Fandango, or Google. "Rotten Tomatoes", "Tomatometer" and "Popcornmeter" are trademarks of their respective owners.
 
 ## Privacy practices tab
@@ -26,7 +31,7 @@ Skip the Critics is an independent project and is not affiliated with, endorsed 
 Replaces the Rotten Tomatoes critics' score shown in Google search results with the Rotten Tomatoes audience score (Popcornmeter).
 
 ### Permission justifications
-- **storage**: Caches audience scores locally for 12 hours so repeat searches don't re-fetch the same Rotten Tomatoes page.
+- **storage**: Caches audience scores locally for 24 hours so repeat searches don't re-fetch the same Rotten Tomatoes page.
 - **Host permission (https://www.rottentomatoes.com/*)**: Needed to load the public Rotten Tomatoes page for a movie the user searched for, in order to read its audience score.
 - **Content scripts on Google search pages**: Needed to find the Rotten Tomatoes score on the results page and display the audience score in its place.
 

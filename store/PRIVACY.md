@@ -7,7 +7,7 @@ Skip the Critics does not collect, store, sell, or share any personal informatio
 **What the extension does**
 - On Google search result pages, it looks for links to Rotten Tomatoes movie or TV pages.
 - For each one, it loads that public Rotten Tomatoes page directly from your browser to read the audience score (Popcornmeter), without sending cookies.
-- It saves those scores on your own device for up to 12 hours, so pages load faster. This data never leaves your browser.
+- It saves those scores on your own device for up to 24 hours, so pages load faster. This data never leaves your browser.
 
 **What it does not do**
 - It does not read, record, or transmit your search queries or browsing history.

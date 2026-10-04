@@ -7,8 +7,11 @@ A Chrome extension that shows the Rotten Tomatoes **Popcornmeter** (audience sco
 - Full popcorn bucket for 60%+, spilled bucket below (Rotten Tomatoes' own convention)
 - No tracking, no data collection. See the [privacy policy](store/PRIVACY.md)
 
+## Something not working?
+Google changes its layout often. If the critics' score shows up somewhere it shouldn't, [open an issue](https://github.com/becca-tiessen/skip-the-critics/issues) with the search you ran and a screenshot.
+
 ## How it works
-The content script finds links to Rotten Tomatoes on Google results pages. The background service worker loads each linked Rotten Tomatoes page, reads the audience score from the page's embedded scorecard JSON, and caches it locally for 12 hours.
+The content script finds links to Rotten Tomatoes on Google results pages. The background service worker loads each linked Rotten Tomatoes page, reads the audience score from the page's embedded scorecard JSON, and caches it locally for 24 hours.
 
 ## Install locally
 1. Open `chrome://extensions` and turn on **Developer mode**
