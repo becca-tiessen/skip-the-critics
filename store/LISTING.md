@@ -1,7 +1,7 @@
 # Chrome Web Store listing — copy/paste reference
 
-## Name
-Popcorn First
+## Name (comes from manifest.json)
+Skip the Critics: See What Audiences Think
 
 ## Summary (max 132 chars, comes from manifest.json)
 See the Rotten Tomatoes audience Popcornmeter instead of the Tomatometer in Google results. Not affiliated with Rotten Tomatoes.
@@ -10,7 +10,7 @@ See the Rotten Tomatoes audience Popcornmeter instead of the Tomatometer in Goog
 Tools  (alt: Entertainment)
 
 ## Description
-Care more about what regular moviegoers think than what critics think? Popcorn First swaps the Rotten Tomatoes Tomatometer (critics' score) shown in Google search results for the Popcornmeter, the audience score.
+Care more about what regular moviegoers think than what critics think? Skip the Critics swaps the Rotten Tomatoes Tomatometer (critics' score) shown in Google search results for the Popcornmeter, the audience score.
 
 • Search any movie or TV show on Google and the "Rotten Tomatoes" rating becomes the Popcornmeter
 • A popcorn icon replaces the tomato: a full bucket for 60% and up, a spilled bucket below
@@ -18,7 +18,7 @@ Care more about what regular moviegoers think than what critics think? Popcorn F
 • Hover the score to see how many audience ratings it's based on
 • Free, no account, no tracking, no ads
 
-Popcorn First is an independent project and is not affiliated with, endorsed by, or sponsored by Rotten Tomatoes, Fandango, or Google. "Rotten Tomatoes", "Tomatometer" and "Popcornmeter" are trademarks of their respective owners.
+Skip the Critics is an independent project and is not affiliated with, endorsed by, or sponsored by Rotten Tomatoes, Fandango, or Google. "Rotten Tomatoes", "Tomatometer" and "Popcornmeter" are trademarks of their respective owners.
 
 ## Privacy practices tab
 

@@ -1,4 +1,4 @@
-# Popcorn First
+# Skip the Critics
 
 A Chrome extension that shows the Rotten Tomatoes **Popcornmeter** (audience score) instead of the **Tomatometer** (critics' score) in Google search results.
 
@@ -18,7 +18,7 @@ The content script finds links to Rotten Tomatoes on Google results pages. The b
 ```sh
 ./build.sh
 ```
-This creates `dist/popcorn-first-<version>.zip`. Listing copy and permission justifications are in [store/LISTING.md](store/LISTING.md).
+This creates `dist/skip-the-critics-<version>.zip`. Listing copy and permission justifications are in [store/LISTING.md](store/LISTING.md).
 
 ---
 Not affiliated with, endorsed by, or sponsored by Rotten Tomatoes, Fandango, or Google. "Rotten Tomatoes", "Tomatometer" and "Popcornmeter" are trademarks of their respective owners.
