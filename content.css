@@ -1,0 +1,5 @@
+/* Hide Google's RT score badges until we've swapped them, so the critic score never flashes.
+   Organic result titles (which contain an h3) stay visible. */
+a[href*="rottentomatoes.com"]:not(:has(h3)):not([data-popcorn]) {
+  visibility: hidden;
+}
